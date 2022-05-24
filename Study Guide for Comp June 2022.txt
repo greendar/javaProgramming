@@ -1,0 +1,65 @@
+Good Morning Teachers!
+
+With the school year coming to an end, it’s time for the year end competition to culminate your classpack experience! Originally we were going to plan an in-person Provincial Championship but due to the supply chain issues that impacted how long your classes have had the equipment for we are opting to do a virtual competition instead. By now, you have heard of our programing simulator, FTC SIM, which some of you have used to introduce your students to programming. This is the platform we will be using for the competition. We built a whole new multiplayer mode and your teams will be the first to experience it!
+
+It's called: FTC GOLF! The objective of the game is to get the robot to the flag in the least amount of runs (pressing go) and before your opponents! Don't think you can take your time figuring it out because you only have 5 minutes to get to the flag!
+
+Introducing the: 2022 FTC SIM Classpack Competition!
+
+This competition is meant for students who participated, or were intending to participate in, the FTC classpack experience. Each classpack team (account) can register one 5 person team to compete in this tournament.
+
+The competition will be held virtually on June 11th from 9:30 am - 4pm. The preliminary schedule is as follows:
+Competition Schedule
+
+9:30 am
+
+Tournament Check-In
+
+10:00 am
+
+Opening Ceremonies
+
+10:30 am - 11:50 am
+
+Qualification Matches
+
+11:50 am - 12:20 pm
+
+Break
+
+12:20 pm - 1:40 pm
+
+Qualification Matches
+
+1:40 pm - 2:10 pm
+
+Break
+
+2:10 pm - 3:10 pm
+
+Elimination Matches
+
+3:30 pm - 4:00 pm
+
+Closing Ceremonies
+
+
+The competition is made up of 6 courses which have 3 holes each. The objective of the game is to get the robot to the flag in the least amount of runs (pressing go). But don't think you have all the time in the world! You only have 5 minutes to get to the flag! Each team will play 4 qualification courses against different members in their group.The top two teams from each group after completing the 4 courses will move onto the semi finals. The top 4 teams from the semi finals will move onto finals.  
+
+
+How do you prepare for a competition for a game you have never played before? You can get familiar with the FTC SIM world by trying your hand at the FTC SIM puzzles. You can learn everything from how to move the robot forward and backwards, to how to use servos and sensors. Check out the FTC SIM tutorial playlist to learn the skills you will need to get to the flag! Get a sneak peak at what types of obstacles/challenges you will be facing on the courses by checking out the following puzzles:
+FTC Movement, 1 - 10
+FTC Sensors, 1 - Color Sense
+FTC Sensors, 7 - Distance Sense
+FTC Puzzles, 1 - Road Block
+FTC Grabby, 1 - Put on Top
+FTC Grabby, 6 - Matching
+Practice, practice, practice because you will be up against the clock! 
+
+Fill out the participation form to let us know if you will or won't be able to participate!
+Form, due by 9pm on May 27th. By filling out the form, you are committing to paying a $25 registration fee. After the team participates in the competition, you will receive a $50 rebate to purchase robot components from Studica.
+NOTE: You do not need to know which students will be competing at this time, a separate form will be sent out on May 30th, where teams will submit a team name and the names of all their players.This form will also contain registration and payment information.
+
+FIRST Canada is stacked with some AWESOME prizes for this competition! We have some awesome FIRST Canada swag to give out, and some amazing tech prizes for each member of the award winning teams. We will also be raffling off an FTC Mechanical Hardware Kit for the teams that participate in the event! Details to come!
+
+If you have any questions, feel free to reach out to Lisa Ramraj @ lisa.ramraj@firstroboticscanada.org
