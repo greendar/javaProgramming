@@ -14,6 +14,7 @@ public class MyFIRSTJavaOpMode extends LinearOpMode {
     ColorSensor color1;
     DistanceSensor distance1;
     BNO055IMU imu;
+    
 
 var dist;
 
