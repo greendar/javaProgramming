@@ -35,8 +35,7 @@ public class MyFIRSTJavaOpMode extends LinearOpMode {
       motorRight.setPower(1);
       sleep(mWait);
       motorLeft.setPower(0);
-      motorRight.setPower(0);
-    }
+      motorRight.setPower(0);}
 
     public void back(int mWait){
       motorLeft.setDirection(DcMotor.Direction.REVERSE);
