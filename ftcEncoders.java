@@ -1,12 +1,8 @@
+//ftcEncoders.java
 
-/***********************************************************************
-*                                                                      *
-* OnbotJava Editor is still : beta! Please inform us of any bugs      *
-* on our discord channel! https://discord.gg/e7nVjMM                   *
-* Only BLOCKS code is submitted when in Arena                          *
-*                                                                      *
-***********************************************************************/
-
+/*
+Base program for solving challenges using encoders.
+*/
 
 public class MyFIRSTJavaOpMode extends LinearOpMode {
     DcMotor motorLeft;
@@ -14,25 +10,32 @@ public class MyFIRSTJavaOpMode extends LinearOpMode {
     ColorSensor color1;
     DistanceSensor distance1;
     BNO055IMU imu;
-    
 
-var dist;
+
+var dist, leftME, rightME;
 
     // Describe this function...
     public void fwd(String dist){
       motorLeft.setTargetPosition(dist * -1);
       motorRight.setTargetPosition(dist);
+      sleep(500);
     }
 
-    public void left(){
-      motorLeft.setTargetPosition(6);
-      motorRight.setTargetPosition(6);
+    public void left(){// Left 90 degrees
+      leftME = motorLeft.getTargetPosition();
+      rightME = motorRight.getTargetPosition();
+      motorLeft.setTargetPosition(leftME + 6);
+      motorRight.setTargetPosition(rightME + 6);
+      sleep(500);
     }
 
 
-    public void right(){
-      motorLeft.setTargetPosition(-6);
-      motorRight.setTargetPosition(-6);
+    public void right(){// Right 90 degrees
+      leftME = motorLeft.getTargetPosition();
+      rightME = motorRight.getTargetPosition();
+      motorLeft.setTargetPosition(leftME - 6);
+      motorRight.setTargetPosition(right - 6);
+      sleep(500);
     }
 
 
@@ -46,7 +49,15 @@ var dist;
       motorLeft.setMode(DcMotor.RunMode.RUN_TO_POSITION);
       motorRight.setMode(DcMotor.RunMode.RUN_TO_POSITION);
       waitForStart();
-      right();
+// BEGIN ONE TIME CODE
+
+
+
+
+
+
+
+// END ONE TIME CODE
       while (opModeIsActive()) {
       }
     }
