@@ -3,7 +3,7 @@
 *                                                                      *
 * OnbotJava Editor is still : beta! Please inform us of any bugs      *
 * on our discord channel! https://discord.gg/e7nVjMM                   *
-* Only BLOCKS code is submitted when in Arena                          *
+* Only BLOCKS code is submitted when in Arena                            *
 *                                                                      *
 ***********************************************************************/
 
