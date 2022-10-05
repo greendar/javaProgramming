@@ -1,6 +1,8 @@
 //grab5-Rescue.java
 /* NOT FINISHED
   -added grabberUp() and grabberDown() functions
+  -problem occurs with grabber bumping floor plate after
+      picking up the yellow block
 
 
 */
@@ -27,21 +29,21 @@ public class MyFIRSTJavaOpMode extends LinearOpMode {
       waitForStart();
       // Put run blocks here
       grabberUp();
-      fwd(500);
-      right(60);
-      fwd(1000);
+      fwd(1800);
+      right(180);
+      fwd(3000);
       grabberDown();
-      back(1000);
+      back(3200);
       grabberUp();
-      back(100);
-      right(115);
-      fwd(1000);
+      back(300);
+      right(340);
+      fwd(3200);
       grabberDown();
-      back(500);
-      right(70);
-      fwd(600);
-      right(70);
-      fwd(1000);
+      back(1500);
+      right(260);
+      fwd(1800);
+      right(210);
+      fwd(6000);
       grabberUp();
 
 
@@ -52,7 +54,7 @@ public class MyFIRSTJavaOpMode extends LinearOpMode {
       }
     }
     public float turnMult = 4.33;
-    public float power = 0.3;
+    public float power = 0.1;
 
     public void grabberUp(){
       grabber.setPosition(1);
